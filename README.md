@@ -1,5 +1,5 @@
 # Student-Assignment-Management-System
-An 3NF normalized student assignment management app written in SQL.
+An BCNF normalized student assignment management app written in SQL.
 A detailed explanation is given in the pdf file in the repo.
 
 the link for the explanation video:
